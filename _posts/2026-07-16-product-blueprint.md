@@ -2,7 +2,7 @@
 layout: post
 title: "Why Every First-Time Founder Needs a Product Blueprint Before Building an MVP"
 date: 2026-07-15 10:00:00 +0530
-categories: [Startup, MVP]
+categories: [MVP Development]
 tags: [Product Blueprint, Startup]
 image: /assets/images/product-blueprint.webp
 ---
