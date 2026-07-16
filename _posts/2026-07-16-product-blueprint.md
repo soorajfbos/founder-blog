@@ -4,7 +4,7 @@ title: "Why Every First-Time Founder Needs a Product Blueprint Before Building a
 date: 2026-07-16 10:00:00 +0530
 categories: [Startup, MVP]
 tags: [Product Blueprint, Startup]
-image: /assets/images/product-blueprint.webp
+image: /assets/Imagess/product-blueprint.webp
 ---
 
 Every successful startup begins with a great idea—but great ideas alone don't build successful products.
