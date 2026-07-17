@@ -12,7 +12,7 @@ image: /assets/images/startup_guide_comparison.webp
 
 As your startup grows, technical leadership becomes increasingly important. 
 
-The challenge isn't deciding whether you need a CTO—it's deciding which type of CTO makes sense for your current stage. Hiring a full-time executive too early can stretch your budget, while waiting too long can slow product development.
+The challenge isn't deciding whether you need a CTO-it's deciding which type of CTO makes sense for your current stage. Hiring a full-time executive too early can stretch your budget, while waiting too long can slow product development.
 
 CTO as a Service helps bridge that gap.
 
@@ -60,7 +60,7 @@ It gives founders the flexibility to grow without overcommitting resources.
 
 Every startup follows a different journey.
 
-The key is choosing the technical leadership model that matches your current business needs—not where you hope to be years from now.
+The key is choosing the technical leadership model that matches your current business needs-not where you hope to be years from now.
 
 CTO as a Service gives startups the expertise they need today while preparing them for tomorrow's growth.
 
