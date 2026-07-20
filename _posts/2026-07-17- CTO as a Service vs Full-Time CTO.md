@@ -2,7 +2,7 @@
 layout: post
 title: "CTO as a Service vs Full-Time CTO: Which One Does Your Startup Really Need?
 "
-date: 2026-07-16 11:00:00 +0530
+date: 2026-07-17 11:00:00 +0530
 categories: [Fractional CTO]
 tags: [MVP, Fractional CTO]
 image: /assets/images/startup_guide_comparison.webp
