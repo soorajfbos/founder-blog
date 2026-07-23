@@ -2,8 +2,8 @@
 layout: post
 title: "Why Hiring a CTO Early Can Save Your Startup Thousands in Development Costs"
 date: 2026-07-23 11:00:00 +0530
-categories: [Fractional cto]
-tags: [Fractional cto]
+categories: [Fractional CTO]
+tags: [Fractional CTO]
 image: /assets/images/cto_early_cost_savings.webp
 ---
 
