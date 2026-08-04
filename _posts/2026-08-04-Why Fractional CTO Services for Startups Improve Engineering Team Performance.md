@@ -3,7 +3,7 @@ layout: post
 title: "Why Fractional CTO Services for Startups Improve Engineering Team Performance"
 date: 2026-08-04 11:00:00 +0530
 categories: [Fractional CTO]
-tags: [CTO]
+tags: [Fractional CTO]
 image: /assets/images/fractional_cto_thumbnail_3.webp
 ---
 
