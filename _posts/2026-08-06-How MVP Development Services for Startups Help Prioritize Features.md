@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How MVP Development Services for Startups Help Prioritize Features"
-date: 2026-08-16 11:00:00 +0530
+date: 2026-08-6 11:00:00 +0530
 categories: [MVP Development]
 tags: [MVP]
 image: /assets/images/mvp_feature_prioritization_thumbnail.webp
