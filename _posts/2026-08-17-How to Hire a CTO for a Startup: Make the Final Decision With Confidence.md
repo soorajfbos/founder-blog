@@ -4,7 +4,7 @@ title: "How to Hire a CTO for a Startup: Make the Final Decision With Confidence
 date: 2026-08-17 11:00:00 +0530
 categories: [Fractional CTO]
 tags: [Fractional CTO]
-image: /assets/images/cto_hiring_isometric_thumbnail_1.webp
+image: /assets/images/cto_decision_matrix_thumbnail.webp
 ---
 
 # How to Hire a CTO for a Startup: Make the Final Decision With Confidence
