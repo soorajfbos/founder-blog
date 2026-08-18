@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How Startups Can Build a CTO Strategy That Evolves With Growth"
-date: 2026-08-16 11:00:00 +0530
+date: 2026-08-18 11:00:00 +0530
 categories: [Fractional CTO]
 tags: [Fractional CTO]
 image: /assets/images/startup_cto_roadmap_evolution.webp
