@@ -4,7 +4,7 @@ title: "How Founders Can Make MVP Development More Predictable"
 date: 2026-08-20 11:00:00 +0530
 categories: [MVP Development]
 tags: [MVP]
-image: /assets/images/your-image.webp
+image: /assets/images/image_3.webp
 ---
 
 # How Founders Can Make MVP Development More Predictable  
