@@ -5,6 +5,8 @@ date: 2026-09-04 11:00:00 +0530
 categories: [MVP Development]
 tags: [MVP]
 image: /assets/images/mvp_scope_budget_certainty_thumbnail.jpg
+---
+
 
 ## Why the Best MVP Process Depends on Scope, Budget, and Certainty
 
