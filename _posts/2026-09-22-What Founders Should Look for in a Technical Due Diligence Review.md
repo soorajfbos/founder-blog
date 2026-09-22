@@ -9,7 +9,7 @@ image: /assets/images/image_20260922_183201.jpg
 
 ## What Founders Should Look for in a Technical Due Diligence Review
 
-A startup's technology can have a major effect on its future development, operating costs, security, and ability to scale. However, founders may not always have enough technical information to understand the condition of their product.
+A startup's technology can have a major effect on its future development, operating costs, security, and ability to scale. However, founders may not always have enough technical information to understand the condition of their product.  
 
 A structured technical due diligence review can provide a clearer picture of the technology and highlight areas that may need attention.
 
