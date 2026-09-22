@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Founders Should Look for in a Technical Due Diligence Review"
-date: 2026-09-21 11:00:00 +0530
+date: 2026-09-22 11:00:00 +0530
 categories: [Startup]
 tags: [MVP]
 image: /assets/images/image_20260922_183201.jpg
