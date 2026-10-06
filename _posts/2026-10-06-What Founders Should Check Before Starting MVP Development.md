@@ -4,7 +4,7 @@ title: "What Founders Should Check Before Starting MVP Development"
 date: 2026-10-06 11:00:00 +0530
 categories: [Startup]
 tags: [MVP]
-image: /assets/image_20261006_175245.jpg
+image: /assets/images/image_20261006_175245.jpg
 ---
 
 
