@@ -85,4 +85,4 @@ The right partner should provide clear information about what will be built and 
 MVP development becomes easier when important decisions are made before coding begins.
 
 By defining the problem, identifying users, controlling scope, planning technology, reviewing risks, estimating costs, and creating a technical blueprint, founders can give their development team a clearer direction and improve the chances of building a useful MVP without unnecessary rework.
-```
+
