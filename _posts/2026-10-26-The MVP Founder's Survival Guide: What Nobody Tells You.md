@@ -7,7 +7,6 @@ tags: [MVP]
 image: /assets/images/image_20261026_173837.jpg
 ---
 
-
 ## The MVP Founder's Survival Guide: What Nobody Tells You
 
 ### The emotional truth about building an MVP
