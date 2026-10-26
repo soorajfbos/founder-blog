@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "The Founder's Checklist: Before You Hire Your MVP Development Team"
+title: "The Founders Checklist Before You Hire Your MVP Development Team"
 date: 2026-10-26 11:00:00 +0530
 categories: [Startup]
 tags: [MVP]
 image: /assets/images/image_20261026_172052.jpg
 ---
 
-## The Founder's Checklist: Before You Hire Your MVP Development Team
+## The Founders Checklist Before You Hire Your MVP Development Team
 
 ### Before you start building
 Use this checklist to make sure you are ready:
